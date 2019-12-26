@@ -1,0 +1,15 @@
+#container {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    background-color: blue;
+}
+
+#button {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
